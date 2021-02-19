@@ -1,0 +1,42 @@
+Product Details
+This is a power full tool. Which help you to create thousands of sample image from a single picture. Within a few minutes. which help you to train your AI Machin With help of Data Augmentation. 
+Data augmentation in data analysis are techniques used to increase the amount of data by adding slightly modified copies of already existing data or newly created synthetic data from existing data. It acts as a regularize and helps reduce overfitting when training a machine learning model.
+
+Data augmentation is a strategy that enables practitioners to significantly increase the diversity of data available for training models, without actually collecting new data. Data augmentation techniques such as cropping, padding, and horizontal flipping are commonly used to train large neural networks.
+
+The performance of deep learning neural networks often improves with the amount of data available. Data augmentation is a technique to artificially create new training data from existing training data. ... This means, variations of the training set image that are likely to be seen by the model.
+
+Development details,
+This product has been developed under Console Lancer in an internship by there interns.
+Console Lancer software development company helping startups and entrepreneur converting ideas to reality and to students to learn new technology with live courses and Internships.
+Console Lancer are enthusiastic about supporting advancements in development and technology. Passionate about increasing knowledge of individuals to drive growth and needed improvements. We shape dreams which are ready to apply knowledge and on-ground experience in development.
+Console Lancer help students who Want to build a career in a progressive organization by offering them to enhance their existing knowledge and professional skills in different needed genres like Python, Java, IOT, Web Development, Machine Learning, AI, App Development and many more.
+Development Team,
+Interns: -
+
+Mustafa Hasan (Team Leader) 
+LinkedIn: https://www.linkedin.com/in/mustafa-hasan-8192ba174
+Gmail: Mustafahasan555@gmail.com
+Github: https://github.com/Godfather-MHS
+Source Code: https://github.com/Godfather-MHS/Data---Augmentation
+
+Ashu Hasan
+LinkedIn: https://www.linkedin.com/in/ashu-hasan-466385200
+Gmail: ashu.hasan155221@gmail.com
+Github: https://github.com/Ashu-Hasan
+Source Code: https://github.com/Ashu-Hasan/Data---Augmentation
+
+
+Rajat Kaalia
+LinkedIn: https://www.linkedin.com/in/rajat-kaalia-0ab536153
+Gmail: rajatkaalia2428@gmail.com
+
+Kartik Sharma 
+LinkedIn: https://www.linkedin.com/in/kartik-sharma-4a3843171
+Gmail: kartiksharmagms@gmail.com
+
+Kapil Dev Sharma 
+Gmail: kapildevsharma1999@gmail.com
+
+
+
